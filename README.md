@@ -13,6 +13,9 @@ None yet.
 * MongoDB
 * Coffeescript
 * Bower
+* Java Version 8+
+* JDK 1.8 (dev)
+* ZeroMQ
 
 ## Installation
 
